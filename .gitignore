@@ -1,0 +1,11 @@
+# dados (baixar do GEO)
+*.xlsx
+*.csv
+*.RData
+*.rds
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+cemitool_report/
