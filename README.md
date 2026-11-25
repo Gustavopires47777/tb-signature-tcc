@@ -1,4 +1,4 @@
-# Assinatura transcriptômica em sangue total para diferenciar tuberculose ativa de infecção latente
+# Identificação de assinatura transcriptômica em sangue total para diferenciação entre tuberculose ativa e infecção latente: validação em múltiplas coortes
 
 Código do Trabalho de Conclusão de Curso **"Identificação de assinatura transcriptômica em sangue total para diferenciação entre tuberculose ativa e infecção latente: validação em múltiplas coortes"**, Bacharelado em Biotecnologia, Instituto de Ciências da Saúde, Universidade Federal da Bahia (2026).
 
